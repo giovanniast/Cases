@@ -6,3 +6,5 @@
 *Amazon ElastiCache (Redis):* Cache distribuído em Redis para armazenar ordens pendentes e processar informações de compra e venda rapidamente.
 
 *Amazon SQS:* Para garantir que as transações sejam processadas de maneira assíncrona e com resiliência.
+
+![alt text](diagrama-order.png)
