@@ -1,0 +1,17 @@
+variable "ecr_name" {}
+variable "ecr_repository" {}
+variable "image_tag" {}
+variable "aws_prefix" {}
+variable "aws_project" {}
+variable "secretsmanager_app_arn" {}
+variable "ecs_role_arn" {}
+variable "config_ecs" {}
+variable "security_groups" {}
+variable "target_group_arn" {}
+variable "port_app" {}
+variable "aws_region" {}
+variable "subnet_priv" {}
+variable "tag_project" {}
+variable "aws_env" {}
+variable "disable_deploy" {}
+variable "target_group_nlb_arn" {}

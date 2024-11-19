@@ -1,0 +1,9 @@
+variable "tag_project" {}
+variable "cloufront_config" {}
+variable "aws_prefix" {}
+variable "aws_project" {}
+variable "aws_env" {}
+variable "aws_region" {}
+variable "aws_cert" {}
+variable "bucket_log" {}
+variable "alb_dns_name" {}

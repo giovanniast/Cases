@@ -1,0 +1,10 @@
+variable "enable_rds" {}
+variable "aws_prefix" {}
+variable "aws_project" {}
+variable "aws_env" {}
+variable "tag_project" {}
+variable "master_password" {}
+variable "port_rds" {}
+variable "config_rds" {}
+variable "mask_priv" {}
+variable "vpc_security_group_ids" {}
